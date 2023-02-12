@@ -1,0 +1,27 @@
+/*external method*/
+/*div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: 700;
+
+}*/
+
+.n1,
+.n3,
+.n5 {
+    background-color: rgba(255, 102, 102, 0.8);
+    font-family: Verdana, sans-serif;
+}
+
+#n2 {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+#n4 {
+    background-color: #4dffd2;
+    font-size: 24px;
+    font-weight: bold;
+}
